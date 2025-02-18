@@ -1,4 +1,4 @@
-package com.airscholar.spark;
+package com.Code-with-vipin.spark;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;

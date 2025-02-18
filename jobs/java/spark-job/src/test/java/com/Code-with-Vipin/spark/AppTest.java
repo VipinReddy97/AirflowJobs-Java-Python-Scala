@@ -1,9 +1,9 @@
-package com.airscholar.spark;
+package com.code-with-vipin.spark;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+ 
 /**
  * Unit test for simple App.
  */
