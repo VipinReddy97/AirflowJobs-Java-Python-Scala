@@ -1,7 +1,7 @@
 # 🚀 Apache Airflow Supercharged with Java, Scala, and Python Spark Jobs  
 
 This project enables **seamless orchestration of Spark jobs** written in **Python, Scala, and Java** using **Apache Airflow** in a **Dockerized environment**.  
-The DAG **`sparking_flow`** is designed to **automate Spark job submission**, ensuring efficient and reliable **data processing pipelines** run on a scheduled basis.
+The DAG is designed to **automate Spark job submission**, ensuring efficient and reliable **data processing pipelines** run on a scheduled basis.
 
 ---
 
